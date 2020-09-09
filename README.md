@@ -15,7 +15,7 @@
 		<main>
 			<header>
 				<div>
-					<img src="assets/img/joey.jpg" alt="Joey">
+					<img src="assets/joey.jpg" alt="Joey">
 				</div>
 
 				<h1>Digital Artist &#38; Student CMD</h1>
