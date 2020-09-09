@@ -14,10 +14,10 @@
 		<main>
 			<header>
 				<div>
-					<img src= "joey.jpg" style="width:320px;height:320px;" alt= joey>
+					<img src= "joey.jpg" alt= joey>
 				</div>
 
-				<h1>Web developer &#38; user experience designer</h1>
+				<h1>Joey Habets - Web developer &#38; user experience designer</h1>
 			</header>
 
 			<p>Currently teaching front-end technologies at <a href="https://mamdt.nl/" target="_blank"><span>Zuyd Hogeschool</span></a>, former co-founder and developer at <a href="https://saus.co/" target="_blank"><span>Saus</span></a>.</p>
@@ -32,8 +32,8 @@
 				<a href="mailto:hello@joeyhabets.nl" class="cta">
 					<span class="emoji mail">✉️</span> <span class="line">hello@willmuijre.rs</span>
 			  </a>
-					<a href="https://github.com/willmuijrers" target="_blank" class="cta">
-				  <span class="emoji alien">👽</span> <span class="line">github.com/willmuijrers</span>
+					<a href="https://github.com/JoeyHabets" target="_blank" class="cta">
+				  <span class="emoji alien">👽</span> <span class="line">github.com/JoeyHabets</span>
 			  </a>
 					
 				</div>
