@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Will Muijrers</title>
+	<title>Joey Habets</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 	<link href="https://fonts.googleapis.com/css?family=Arapey" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
@@ -30,7 +30,7 @@
 
 				<div class="wrapper-cta">
 				<a href="mailto:hello@joeyhabets.nl" class="cta">
-					<span class="emoji mail">✉️</span> <span class="line">hello@willmuijre.rs</span>
+					<span class="emoji mail">✉️</span> <span class="line">hello@joeyhabets.rs</span>
 			  </a>
 					<a href="https://github.com/JoeyHabets" target="_blank" class="cta">
 				  <span class="emoji alien">👽</span> <span class="line">github.com/JoeyHabets</span>
